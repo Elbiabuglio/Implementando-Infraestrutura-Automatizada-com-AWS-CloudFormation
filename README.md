@@ -1,4 +1,4 @@
-# 🚀 AWS CloudFormation - Projeto Simples
+# 🚀 AWS CloudFormation
 
 Um projeto básico de **Infrastructure as Code (IaC)** usando AWS CloudFormation para automatizar a criação de infraestrutura na nuvem.
 
@@ -20,7 +20,7 @@ Internet → Load Balancer → EC2 (Web App) → RDS MySQL
 ## 📁 Estrutura do Projeto
 
 ```
-aws-cloudformation-simples/
+aws-cloudformation/
 ├── cloudformation/
 │   └── infrastructure.yaml     # Template principal
 ├── scripts/
